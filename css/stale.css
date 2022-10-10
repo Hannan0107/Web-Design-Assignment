@@ -1,0 +1,41 @@
+
+
+
+
+body {
+  background-color: #990000;
+}
+
+#head {
+  font-family: 'Cinzel', serif;
+  color: white;
+  text-align: center;
+}
+
+.all {
+  margin-top:  50px;
+  text-align: center;
+  font-family: 'Cinzel', serif;
+}
+
+.redirect {
+  text-decoration: none;
+  color: white;
+}
+
+.length1 {
+  width: 200px;
+}
+
+.ima {
+  margin-bottom: -10px;
+}
+
+.ima2 {
+  margin-bottom: -30px;
+}
+
+.ima3 {
+  margin-top: 10px;
+  margin-bottom: -15px;
+}
